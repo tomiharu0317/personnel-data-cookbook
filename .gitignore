@@ -41,3 +41,6 @@ vignettes/*.pdf
 # bookdown
 docs/
 doc/
+
+# DS_Store
+.DS_Store
