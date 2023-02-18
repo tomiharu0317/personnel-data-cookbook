@@ -1,4 +1,4 @@
-bookdown::epub_book: default
+# bookdown::epub_book: default
 bookdown::gitbook:
   css: style.css
   split_by: "rmd"

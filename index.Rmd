@@ -1,7 +1,13 @@
 ---
-title: "最低限の bookdown プロジェクト"
+title: "人事データ前処理大全"
+author: "Haruto Tomizawa"
+data: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: https://github.com/tomiharu0317/personnel-data-cookbook
+description: "人事データの前処理方法"
 ---
 
 # はじめに {-}
