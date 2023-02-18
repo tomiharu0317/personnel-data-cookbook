@@ -12,11 +12,11 @@ description: "人事データの前処理方法"
 
 # はじめに {-}
 
-なにか書く
+HR techの現在
 
 https://gedevan-aleksizde.github.io/rmarkdown-cookbook/bookdown.html#fig:bookdown-project
 
 ```{r}
-# bookdown::render_book('index.Rmd')
+# bookdown::render_book("index.Rmd", output_format = "bookdown::gitbook")
 ```
 
