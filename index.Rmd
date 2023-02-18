@@ -1,0 +1,16 @@
+---
+title: "最低限の bookdown プロジェクト"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+---
+
+# はじめに {-}
+
+なにか書く
+
+https://gedevan-aleksizde.github.io/rmarkdown-cookbook/bookdown.html#fig:bookdown-project
+
+```{r}
+# bookdown::render_book('index.Rmd')
+```
+
