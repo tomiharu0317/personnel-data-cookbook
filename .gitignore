@@ -39,8 +39,7 @@ vignettes/*.pdf
 .Renviron
 
 # bookdown
-docs/
-doc/
+# /docs
 
 # DS_Store
 .DS_Store
